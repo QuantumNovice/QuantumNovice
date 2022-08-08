@@ -1,4 +1,5 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=QuantumNovice)
+![](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)
 ### Hi there 👋 I am Has
 
 ## Remember Covid?
