@@ -7,13 +7,10 @@ The audio doesn't work well. So I wrote this package to use my phone as mic, whe
 disable my mic.
 
 And that's the story behind this project
-![Pulse Audio Stream](https://github.com/noob-max-ai/pulse-audio-stream)
+✨✨![Pulse Audio Stream](https://github.com/noob-max-ai/pulse-audio-stream)✨✨
 
 
-**QuantumNovice/QuantumNovice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
+## About Me
 
 - 🔭 I’m currently working on machine learning
 - 🌱 I’m currently learning functional programming
