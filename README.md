@@ -1,6 +1,7 @@
-![Profile View Counter](https://komarev.com/ghpvc/?username=QuantumNovice)
+
 ![](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)
 ### Hi there 👋 I am Has
+
 
 ## Remember Covid?
 People (one companye employee in particular) started using zoom exploits to unmute and mic and cameras during the pandemic.
@@ -22,7 +23,8 @@ And that's the story behind this project
 - 📫 How to reach me: portabl3lapy@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
-
+- 
+![Profile View Counter](https://komarev.com/ghpvc/?username=QuantumNovice)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QuantumNovice&theme=vue)
 ![](https://github-readme-stats.vercel.app/api?username=QuantumNovice&show_icons=true)
