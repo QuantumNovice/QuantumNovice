@@ -27,9 +27,7 @@ And that's the story behind this project
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=QuantumNovice&show_icons=true)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumNovice&theme=blue-green)
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
+![](https://activity-graph.herokuapp.com/graph?username={QuantumNovice}&theme=minimal)
 
 
 
