@@ -1,3 +1,4 @@
+![Profile View Counter](https://komarev.com/ghpvc/?username=QuantumNovice)
 ### Hi there 👋 I am Has
 
 ## Remember Covid?
@@ -29,6 +30,6 @@ And that's the story behind this project
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=QuantumNovice)
+
 
 
