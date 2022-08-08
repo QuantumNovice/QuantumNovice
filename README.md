@@ -28,4 +28,4 @@ And that's the story behind this project
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumNovice)
 
-![](https://github-profile-trophy.vercel.app/?username={username})
+![](https://github-profile-trophy.vercel.app/?username=QuantumNovice)
