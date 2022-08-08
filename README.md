@@ -9,7 +9,7 @@ disable my mic.
 And that's the story behind this project
 ![Pulse Audio Stream](https://github.com/noob-max-ai/pulse-audio-stream)
 
-<!--
+
 **QuantumNovice/QuantumNovice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: portabl3lapy@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
--->
+
