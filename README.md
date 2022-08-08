@@ -24,8 +24,8 @@ And that's the story behind this project
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QuantumNovice&theme=vue)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=QuantumNovice&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=QuantumNovice&show_icons=true)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumNovice)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumNovice)
 
-
+![](https://github-profile-trophy.vercel.app/?username={username})
