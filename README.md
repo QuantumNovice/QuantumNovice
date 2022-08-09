@@ -19,7 +19,7 @@ And that's the story behind this project
 - 👯 I’m looking to collaborate on constitutive modelling, programming and other open source projects.
 - 🤔 I’m looking for help with code review.
 - 💬 Ask me about Math/Civil Engineering
-- 📫 How to reach me: portabl3lapy@gmail.com
+- 📫 How to reach me: 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 - 
