@@ -3,7 +3,7 @@
 
 
 ## Remember Covid?
-People (one company employee in particular) started using zoom exploits to unmute and mic and cameras during the pandemic.
+People (one company employee in particular) started using zoom exploits to unmute mic and cameras during the pandemic.
 So, I started using virtual machines. It has a small problem (especially windows hyper V)
 The audio doesn't work well. So I wrote this package to use my phone as mic, where I can physically
 disable my mic.
