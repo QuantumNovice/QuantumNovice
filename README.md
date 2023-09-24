@@ -1,6 +1,7 @@
 
 ### Hi there 👋 I am Has
 
+It's been a while since I actually contributed to OpenSource/FOSS. Crazy how life catches on to you.
 
 ## Remember Covid?
 People (one company employee in particular) started using zoom exploits to unmute mic and cameras during the pandemic.
