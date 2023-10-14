@@ -3,11 +3,6 @@
 
 It's been a while since I actually contributed to OpenSource/FOSS. Crazy how life catches on to you.
 
-## Remember Covid?
-People (one company employee in particular) started using zoom exploits to unmute mic and cameras during the pandemic.
-So, I started using virtual machines. It has a small problem (especially windows hyper V)
-The audio doesn't work well. So I wrote this package to use my phone as mic, where I can physically
-disable my mic.
 
 And that's the story behind this project
 ✨✨![Pulse Audio Stream](https://github.com/noob-max-ai/pulse-audio-stream)✨✨
