@@ -10,12 +10,11 @@ And that's the story behind this project
 
 ## About Me
 
-- 🔭 I’m currently working on machine learning
-- 🌱 I’m currently learning functional programming
-- 👯 I’m looking to collaborate on constitutive modelling, programming and other open source projects.
+- 🔭 I’m currently working on deep learning
+- 👯 I’m looking to collaborate on constitutive modelling, modular construction, programming and other open-source projects.
 - 🤔 I’m looking for help with code review.
 - 💬 Ask me about Math/Civil Engineering
-- 📫 How to reach me: 
+- 📫 How to reach me: github :)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
