@@ -18,7 +18,7 @@ And that's the story behind this project
 - 📫 How to reach me: 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
-- 
+
 ![Profile View Counter](https://komarev.com/ghpvc/?username=QuantumNovice)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QuantumNovice&theme=vue)
