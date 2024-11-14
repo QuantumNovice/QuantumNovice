@@ -2,7 +2,7 @@
 ### Hi there 👋 I am Has
 
 It's been a while since I actually contributed to OpenSource/FOSS. Crazy how life catches on to you.
-
+I haven't been contributing to OpenSource lately.
 
 And that's the story behind this project
 ✨✨![Pulse Audio Stream](https://github.com/noob-max-ai/pulse-audio-stream)✨✨
