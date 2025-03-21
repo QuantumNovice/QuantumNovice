@@ -1,6 +1,6 @@
 
-### Hi there 👋 I am Has
-
+### Hi there 👋 I am
+![image](https://github.com/QuantumNovice/QuantumNovice/blob/main/name.png?raw=true)
 It's been a while since I actually contributed to OpenSource/FOSS. Crazy how life catches on to you.
 I haven't been contributing to OpenSource lately.
 
