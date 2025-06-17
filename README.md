@@ -15,10 +15,8 @@ And that's the story behind this project
 - 🔭 I’m currently working on deep learning
 - 👯 I’m looking to collaborate on constitutive modelling, modular construction, programming and other open-source projects.
 - 🤔 I’m looking for help with code review.
-- 💬 Ask me about Math/Civil Engineering
+- 💬 Ask me about Math/Engineering
 - 📫 How to reach me: github :)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=QuantumNovice)
 
