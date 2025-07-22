@@ -1,28 +1,20 @@
-
-### Hi there 👋 I am
-<p align="left">
-  <img src="https://github.com/QuantumNovice/QuantumNovice/blob/main/name.png?raw=true" alt="Centered Image" width="300">
-</p>
-It's been a while since I actually contributed to OpenSource/FOSS. Crazy how life catches on to you.
-I haven't been contributing to OpenSource lately.
-
-And that's the story behind this project
-✨✨![Pulse Audio Stream](https://github.com/noob-max-ai/pulse-audio-stream)✨✨
-
-
-## About Me
-
-- 🔭 I’m currently working on deep learning
-- 👯 I’m looking to collaborate on constitutive modelling, modular construction, programming and other open-source projects.
-- 🤔 I’m looking for help with code review.
-- 💬 Ask me about Math/Engineering
-- 📫 How to reach me: github :)
-
 ![Profile View Counter](https://komarev.com/ghpvc/?username=QuantumNovice)
+![GitHub last commit](https://img.shields.io/github/last-commit/QuantumNovice/QuantumNovice)
+
+## 👋 About Me✨
+
+- 💻 I'm **Haseeb**, a developer passionate about coding and problem-solving
+- 🏗️ I enjoy working with **Deep Learning**, **BIM Programming** and **NLP**
+- ➗ I'm deeply interested in mathematics and its real-world applications
+- 🌐 I contribute to open-source projects when I can, and love learning from the community
+- 📫 How to reach me: github, email 😊
+
+## Skills
+
+[![](https://skillicons.dev/icons?i=ts,py,cs,vue,rust,cpp,c,html,sass,postgresql,solidjs,flutter,fortran,godot,js,jenkins,docker,p5js)]()
+
+## Statis
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QuantumNovice&theme=vue)
 
-
-
-![](https://github-profile-trophy.vercel.app/?username=QuantumNovice)
-
+![](https://github-profile-trophy.vercel.app/?username=QuantumNovice&theme=algolia)
