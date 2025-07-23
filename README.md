@@ -30,7 +30,7 @@ Haseeb is a passionate developer with a strong background in civil engineering a
 
 ## Streaks
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=QuantumNovice&theme=vue-dark)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=QuantumNovice&theme=vue-dark)
 
 ## Stats
 
