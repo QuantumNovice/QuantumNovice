@@ -28,13 +28,17 @@ Haseeb is a passionate developer with a strong background in civil engineering a
 
 [![](https://skillicons.dev/icons?i=ts,py,cs,vue,rust,cpp,c,html,sass,postgresql,solidjs,flutter,fortran,godot,js,jenkins,docker,p5js)]()
 
-## Statis
+## Streaks
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=QuantumNovice&theme=vue-dark)](https://git.io/streak-stats)
+
+## Stats
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QuantumNovice&theme=vue)
 
 ![](https://github-profile-trophy.vercel.app/?username=QuantumNovice&theme=algolia)
 
-![Intro](https://readme-typing-svg.demolab.com?font=Arial&pause=1000&color=D4D4asdD4&width=435&height=30&lines=Bye!!)
+![Intro](https://readme-typing-svg.demolab.com?font=Arial&pause=1000&color=D4D4asdD4&width=435&height=30&lines=EOL)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=QuantumNovice" alt="Profile View Counter" />
