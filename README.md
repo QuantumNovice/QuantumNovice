@@ -1,45 +1,123 @@
-<p align="center">
-<br><br>
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3331b4&height=200&section=header&text=Haseeb&fontSize=42&fontColor=ffffff&animation=twinkle&fontAlignY=38" width="100%" alt="Header Banner"/>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3331B4&center=true&vCenter=true&width=650&lines=Architecture+%2B+Civil+Engineering+Dual+Major;Deep+Learning+%7C+BIM+Programming+%7C+NLP;Computational+Geometry+%26+Applied+Mathematics;Open-Source+Software+Developer" alt="Typing Banner" />
+  </a>
+
+  <br/><br/>
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=QuantumNovice&color=3331b4&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile View Counter" />
+    <img src="https://img.shields.io/github/last-commit/QuantumNovice/QuantumNovice?style=for-the-badge&color=3331b4&logo=github&logoColor=white" alt="Last Commit" />
+  </p>
+
+</div>
+
+---
+
+### Executive Profile
+
+I am **Haseeb**, a software developer specializing in the convergence of **Architecture, Civil Engineering, and AI**. Holding a dual degree background in Architecture and Civil Engineering, I build computational tools and intelligent systems for structural, geometric, and BIM data workflows.
+
+*   **Deep Learning & NLP:** Developing machine learning models and natural language processing pipelines to analyze technical specifications, building regulations, and structural datasets.
+*   **BIM & Computational Engineering:** Creating automation utilities, spatial data parsers, and custom tools for Building Information Modeling environments.
+*   **Applied Mathematics:** Implementing numerical methods, spatial algorithms, and geometric computations to solve complex engineering constraints.
+*   **Open Source:** Designing developer tools, desktop interfaces, and domain-specific engineering software libraries.
+
+---
+
+### Core Engineering Domains
+
+<table width="100%" cellspacing="0" cellpadding="8">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>BIM & Computational Design</h4>
+      <p>Building custom BIM automation frameworks, structural parsers, and geometric algorithms to connect architectural models directly with analytical solvers.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Applied AI & Natural Language Processing</h4>
+      <p>Implementing deep learning architectures and NLP models to extract structured data from unstructured building codes, standards, and engineering specifications.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Systems Programming & Mathematics</h4>
+      <p>Applying low-level systems logic, numerical computing, and computational geometry to high-speed data processing and engineering simulations.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>3D Graphics & Interactive Software</h4>
+      <p>Developing real-time web viewers, spatial visualization tools, and native desktop GUIs designed for complex structural engineering workflows.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### Technology Matrix
+
+<div align="center">
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,py,cs,vue,rust,cpp,c,html,sass,postgres,solidjs,flutter,fortran,godot,js,jenkins,docker,p5js&perline=9&theme=dark" alt="Skills Matrix" />
+  </a>
+
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/TypeScript-3331b4?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Python-3331b4?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C%23_.NET-3331b4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C# .NET"/>
+  <img src="https://img.shields.io/badge/C++-3331b4?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Rust-3331b4?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
+  <img src="https://img.shields.io/badge/Vue.js-3331b4?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
+  <img src="https://img.shields.io/badge/Docker-3331b4?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+
+</div>
+
+---
+
+### Featured Repositories
+
+<table width="100%" cellspacing="0" cellpadding="8">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Ollama GUI Client</h4>
+      <p>An open-source desktop interface designed for local Large Language Model execution and workflow orchestration.</p>
+      <p><strong>Technologies:</strong> Vue 3, TypeScript, Desktop UI, Local LLMs</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Awesome Civil Engineering</h4>
+      <p>A structured index of computational engineering tools, open-source libraries, and structural analysis frameworks.</p>
+      <p><strong>Technologies:</strong> Structural Analysis, BIM Tools, Knowledge Base</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Vue 3 + Three.js Starter</h4>
+      <p>High-performance template integrating Vue Single File Components, Vite, and Three.js for 3D web applications.</p>
+      <p><strong>Technologies:</strong> Vue 3, Three.js, TypeScript, WebGL</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>FreeCAD Linux Environment</h4>
+      <p>Custom lightweight Linux kernel distribution pre-configured specifically for computational CAD and BIM workflows.</p>
+      <p><strong>Technologies:</strong> Linux, FreeCAD, System Engineering</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=3331b4&height=2&section=footer" width="100%" alt="Footer Divider"/>
   
-![badge](https://glitch-image.vercel.app/api?text=Soy%20Haseeb%20%20%20%20%20%20%20%20%20%20%20%20%20)
+  <br/>
+  <a href="https://github.com/QuantumNovice">
+    <img src="https://img.shields.io/badge/GitHub-QuantumNovice-3331b4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-3331b4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Contact"/>
+  </a>
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif" width="100">
-
-</p>
-
-<!--
-Haseeb is a passionate developer with a strong background in civil engineering and architecture. He specializes in Deep Learning, NLP, and BIM Programming, with expertise in Building Information Modeling (BIM) in Korea. As a developer deeply interested in mathematics and real-world problem-solving, Haseeb also contributes to open-source projects and engages with the programming community. With a dual major in architecture and civil engineering, Haseeb bridges technical and creative domains. His interests span machine learning, artificial intelligence, and data-driven engineering solutions. Reach out via GitHub or email.
-
-하심(Haseeb)은 건축학 및 토목공학을 전공한 개발자로, 딥러닝(Deep Learning), 자연어처리(NLP), 그리고 BIM 프로그래밍에 전문성을 가지고 있습니다. 한국에서 BIM(Building Information Modeling) 분야에 경험이 있으며, 수학과 실제 문제 해결에 깊은 관심을 갖고 있습니다. 오픈 소스 프로젝트에 기여하며 개발자 커뮤니티와의 교류를 소중히 여기고 있습니다. 기계 학습, 인공지능, 데이터 기반의 엔지니어링 솔루션에 관심이 있으며, GitHub 또는 이메일을 통해 연락 가능합니다.
--->
-
-## 👋 About Me✨
-
-- 💻 I'm **Haseeb**, a developer passionate about coding and problem-solving
-- 🏗️ I enjoy working with **Deep Learning**, **BIM Programming** and **NLP**
-- ➗ I'm deeply interested in mathematics and its real-world applications
-- 🌐 I contribute to open-source projects when I can, and love learning from the community
-- 📫 How to reach me: github, email 😊
-
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"> Skills
-
-[![](https://skillicons.dev/icons?i=ts,py,cs,vue,rust,cpp,c,html,sass,postgresql,solidjs,flutter,fortran,godot,js,jenkins,docker,p5js)]()
-
-## Streaks
-
-![GitHub Streak](https://streak-stats.demolab.com?user=QuantumNovice&theme=vue-dark)
-
-## Stats
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QuantumNovice&theme=vue)
-
-![](https://github-profile-trophy.vercel.app/?username=QuantumNovice&theme=algolia)
-
-![Intro](https://readme-typing-svg.demolab.com?font=Arial&pause=1000&color=D4D4asdD4&width=435&height=30&lines=EOL)
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=QuantumNovice" alt="Profile View Counter" />
-  <img src="https://img.shields.io/github/last-commit/QuantumNovice/QuantumNovice" alt="GitHub last commit" />
-  
-</p>
+</div>
