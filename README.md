@@ -14,9 +14,7 @@
   </p>
 
 </div>
-
 ---
-
 ### Executive Profile
 
 I am **Haseeb**, a software developer specializing in the convergence of **Architecture, Civil Engineering, and AI**. Holding a dual degree background in Architecture and Civil Engineering, I build computational tools and intelligent systems for structural, geometric, and BIM data workflows.
@@ -52,7 +50,6 @@ I am **Haseeb**, a software developer specializing in the convergence of **Archi
     </td>
   </tr>
 </table>
-
 ---
 
 ### Technology Matrix
